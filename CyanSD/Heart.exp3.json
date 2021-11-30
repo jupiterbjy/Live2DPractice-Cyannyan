@@ -1,0 +1,15 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamHeart",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEmoteLineblush",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

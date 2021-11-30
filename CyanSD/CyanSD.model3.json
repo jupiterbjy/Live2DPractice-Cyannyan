@@ -1,0 +1,79 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CyanSD.moc3",
+		"Textures": [
+			"CyanSD.8192/texture_00.png"
+		],
+		"Physics": "CyanSD.physics3.json",
+		"DisplayInfo": "CyanSD.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "><",
+				"File": "V_eyes.exp3.json"
+			},
+			{
+				"Name": "Angry",
+				"File": "Angry.exp3.json"
+			},
+			{
+				"Name": "Blushed",
+				"File": "Blushed.exp3.json"
+			},
+			{
+				"Name": "Fish",
+				"File": "Fish.exp3.json"
+			},
+			{
+				"Name": "Happy",
+				"File": "Happy.exp3.json"
+			},
+			{
+				"Name": "Heart",
+				"File": "Heart.exp3.json"
+			},
+			{
+				"Name": "Kazoo",
+				"File": "Kazoo.exp3.json"
+			},
+			{
+				"Name": "Mad",
+				"File": "Mad.exp3.json"
+			},
+			{
+				"Name": "Puzzled",
+				"File": "Puzzled.exp3.json"
+			},
+			{
+				"Name": "Sad",
+				"File": "Sad.exp3.json"
+			},
+			{
+				"Name": "StarryEye",
+				"File": "StarryEye.exp3.json"
+			},
+			{
+				"Name": "wink",
+				"File": "wink.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,2 @@
+<Note to self>
+direct texture edit: mouth color synced to face
