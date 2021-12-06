@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "CyanSD.moc3",
 		"Textures": [
-			"CyanSD.8192/texture_00.png"
+			"CyanSD.4096/texture_00.png"
 		],
 		"Physics": "CyanSD.physics3.json",
 		"DisplayInfo": "CyanSD.cdi3.json",
@@ -78,7 +78,11 @@
 	"HitAreas": [
 		{
 			"Id": "HitArea",
-			"Name": " Head"
+			"Name": "Head"
+		},
+		{
+			"Id": "HitArea2",
+			"Name": "Body"
 		}
 	]
 }
