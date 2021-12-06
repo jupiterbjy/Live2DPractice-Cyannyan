@@ -9,7 +9,7 @@
 		"DisplayInfo": "CyanSD.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "><",
+				"Name": "\u003E\u003C",
 				"File": "V_eyes.exp3.json"
 			},
 			{
@@ -75,5 +75,10 @@
 			]
 		}
 	],
-	"HitAreas": []
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": " Head"
+		}
+	]
 }

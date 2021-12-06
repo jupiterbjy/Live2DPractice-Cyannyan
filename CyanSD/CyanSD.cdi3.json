@@ -204,7 +204,7 @@
 		{
 			"Id": "ParamArmLSway",
 			"GroupId": "",
-			"Name": "Arm L "
+			"Name": "Arm L"
 		},
 		{
 			"Id": "ParamBodyAngleY",
@@ -413,10 +413,6 @@
 		[
 			"ParamEyeLOpen",
 			"ParamEyeLSmile"
-		],
-		[
-			"ParamEyeBallX",
-			"ParamEyeBallY"
 		],
 		[
 			"ParamBrowLX",
