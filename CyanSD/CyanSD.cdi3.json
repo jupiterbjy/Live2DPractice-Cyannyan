@@ -27,6 +27,11 @@
 			"Name": "Ahoge Y"
 		},
 		{
+			"Id": "ParamTroubled",
+			"GroupId": "",
+			"Name": "Emote Troubled"
+		},
+		{
 			"Id": "ParamHeart",
 			"GroupId": "",
 			"Name": "Emote Heart"
@@ -305,6 +310,10 @@
 	"ParameterGroups": [],
 	"Parts": [
 		{
+			"Id": "Part19",
+			"Name": "troubled.png"
+		},
+		{
 			"Id": "Part2",
 			"Name": "Head part"
 		},
@@ -323,10 +332,6 @@
 		{
 			"Id": "Part4",
 			"Name": "Facial"
-		},
-		{
-			"Id": "eye",
-			"Name": "eye"
 		},
 		{
 			"Id": "head",
@@ -365,8 +370,16 @@
 			"Name": "Back cloth"
 		},
 		{
-			"Id": "eyeline",
-			"Name": "eyeline"
+			"Id": "Part28",
+			"Name": "Nose"
+		},
+		{
+			"Id": "Part21",
+			"Name": "eye L"
+		},
+		{
+			"Id": "Part20",
+			"Name": "eye R"
 		},
 		{
 			"Id": "Part5",
@@ -393,6 +406,30 @@
 			"Name": "Arm Rotation"
 		},
 		{
+			"Id": "Part26",
+			"Name": "eye special L"
+		},
+		{
+			"Id": "Part27",
+			"Name": "eye main L"
+		},
+		{
+			"Id": "Part24",
+			"Name": "eyebrow L"
+		},
+		{
+			"Id": "Part23",
+			"Name": "eye special R"
+		},
+		{
+			"Id": "Part25",
+			"Name": "eye main R"
+		},
+		{
+			"Id": "Part22",
+			"Name": "eyebrow R"
+		},
+		{
 			"Id": "Part9",
 			"Name": "Mouse deco"
 		}
@@ -407,12 +444,12 @@
 			"ParamAhogeY"
 		],
 		[
-			"ParamEyeROpen",
-			"ParamEyeRSmile"
-		],
-		[
 			"ParamEyeLOpen",
 			"ParamEyeLSmile"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
 		],
 		[
 			"ParamBrowLX",

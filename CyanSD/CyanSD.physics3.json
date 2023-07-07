@@ -5,6 +5,7 @@
 		"TotalInputCount": 31,
 		"TotalOutputCount": 20,
 		"VertexCount": 38,
+		"Fps": 120,
 		"EffectiveForces": {
 			"Gravity": {
 				"X": 0,
@@ -1006,7 +1007,7 @@
 						"X": 0,
 						"Y": 20
 					},
-					"Mobility": 0.85,
+					"Mobility": 0.89,
 					"Delay": 1,
 					"Acceleration": 1,
 					"Radius": 20

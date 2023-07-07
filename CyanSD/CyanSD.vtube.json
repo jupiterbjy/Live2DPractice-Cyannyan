@@ -9,16 +9,16 @@
         "IdleAnimationWhenTrackingLost": ""
     },
     "ModelSaveMetadata": {
-        "LastSavedVTubeStudioVersion": "1.24.12",
+        "LastSavedVTubeStudioVersion": "1.26.11",
         "LastSavedPlatform": "Steam",
-        "LastSavedDateUTC": "Tuesday, 11 April 2023, 16:48:15",
-        "LastSavedDateLocalTime": "Wednesday, 12 April 2023, 01:48:15",
-        "LastSavedDateUnixMillisecondTimestamp": "1681231695180"
+        "LastSavedDateUTC": "Friday, 07 July 2023, 09:16:36",
+        "LastSavedDateLocalTime": "Friday, 07 July 2023, 18:16:36",
+        "LastSavedDateUnixMillisecondTimestamp": "1688721396419"
     },
     "SavedModelPosition": {
         "Position": {
-            "x": 58.666133880615237,
-            "y": -48.299102783203128,
+            "x": 7.354423522949219,
+            "y": -11.018852233886719,
             "z": 0.0
         },
         "Rotation": {
@@ -583,9 +583,9 @@
         },
         {
             "HotkeyID": "fae1f806683d40d2a04d1d57fe179686",
-            "Name": "Happy",
+            "Name": "OwO",
             "Action": "ToggleExpression",
-            "File": "Happy.exp3.json",
+            "File": "Surprised.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -999,7 +999,7 @@
             "HotkeyID": "26dc35f34b5743b7936b1a0be1633700",
             "Name": "StarryEye",
             "Action": "ToggleExpression",
-            "File": "StarryEye.exp3.json",
+            "File": "Starry Eye.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -1068,7 +1068,7 @@
             "HotkeyID": "f3941c7a16674dd0a91243167340dc55",
             "Name": "V_eyes",
             "Action": "ToggleExpression",
-            "File": "V_eyes.exp3.json",
+            "File": "V Eyes.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -1137,7 +1137,7 @@
             "HotkeyID": "66f9f5e18cb044f3a3ab73412465d1fb",
             "Name": "wink",
             "Action": "ToggleExpression",
-            "File": "wink.exp3.json",
+            "File": "Wink.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -1197,8 +1197,8 @@
             "FadeSecondsAmount": 0.5,
             "OnScreenHotkeyColor": {
                 "r": 1.0,
-                "g": 1.0,
-                "b": 1.0,
+                "g": 0.0,
+                "b": 0.0,
                 "a": 1.0
             }
         }
