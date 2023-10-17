@@ -1,0 +1,100 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CyanSD.moc3",
+		"Textures": [
+			"CyanSD.2048/texture_00.png"
+		],
+		"Physics": "CyanSD.physics3.json",
+		"DisplayInfo": "CyanSD.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Angry",
+				"File": "expressions/Angry.exp3.json"
+			},
+			{
+				"Name": "Blushed",
+				"File": "expressions/Blushed.exp3.json"
+			},
+			{
+				"Name": "Fish",
+				"File": "expressions/Fish.exp3.json"
+			},
+			{
+				"Name": "Happy",
+				"File": "expressions/Happy.exp3.json"
+			},
+			{
+				"Name": "Heart",
+				"File": "expressions/Heart.exp3.json"
+			},
+			{
+				"Name": "Kazoo",
+				"File": "expressions/Kazoo.exp3.json"
+			},
+			{
+				"Name": "Mad",
+				"File": "expressions/Mad.exp3.json"
+			},
+			{
+				"Name": "Puzzled",
+				"File": "expressions/Puzzled.exp3.json"
+			},
+			{
+				"Name": "Sad",
+				"File": "expressions/Sad.exp3.json"
+			},
+			{
+				"Name": "StarryEye",
+				"File": "expressions/Starry Eye.exp3.json"
+			},
+			{
+				"Name": "V_eyes",
+				"File": "expressions/V Eyes.exp3.json"
+			},
+			{
+				"Name": "Wink",
+				"File": "expressions/Wink.exp3.json"
+			},
+			{
+				"Name": "Troubled",
+				"File": "expressions/Troubled.exp3.json"
+			},
+			{
+				"Name": "Surprised",
+				"File": "expressions/Surprised.exp3.json"
+			},
+			{
+				"Name": "HeartEye",
+				"File": "expressions/Heart Eye.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Head"
+		},
+		{
+			"Id": "HitArea2",
+			"Name": "Body"
+		}
+	]
+}

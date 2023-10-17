@@ -9,16 +9,16 @@
         "IdleAnimationWhenTrackingLost": ""
     },
     "ModelSaveMetadata": {
-        "LastSavedVTubeStudioVersion": "1.26.11",
+        "LastSavedVTubeStudioVersion": "1.27.8",
         "LastSavedPlatform": "Steam",
-        "LastSavedDateUTC": "Friday, 07 July 2023, 09:16:36",
-        "LastSavedDateLocalTime": "Friday, 07 July 2023, 18:16:36",
-        "LastSavedDateUnixMillisecondTimestamp": "1688721396419"
+        "LastSavedDateUTC": "Tuesday, 17 October 2023, 08:27:26",
+        "LastSavedDateLocalTime": "Tuesday, 17 October 2023, 17:27:26",
+        "LastSavedDateUnixMillisecondTimestamp": "1697531246723"
     },
     "SavedModelPosition": {
         "Position": {
-            "x": 7.354423522949219,
-            "y": -11.018852233886719,
+            "x": -8.239585876464844,
+            "y": -0.5259275436401367,
             "z": 0.0
         },
         "Rotation": {
@@ -28,8 +28,8 @@
             "w": 1.0
         },
         "Scale": {
-            "x": 1.0082817077636719,
-            "y": 1.0082817077636719,
+            "x": 1.0,
+            "y": 1.0,
             "z": 1.0
         }
     },
