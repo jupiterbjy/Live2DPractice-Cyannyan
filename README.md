@@ -12,18 +12,23 @@ In the hope of bringing Cyannyan more attention, I am releasing this exported mo
 
 As License permits, it's free to use both Commercially / Privately. I personally wish this become something included in Live2D viewers as example file - I'll try to improve this further to reach that quality. 
 
+# Contents
+
+- CyanSD: 8192px version with VtuberStudio integration
+- CyanSDLowRes: 2048px version to use in webs, as chromium based mobile browers don't load large images.
+- CyanEmojis: Emojis created from this live2d model. Based on old model so these looks bit different, especially ones with closed eyes. Thanks IceCat for cropping!
+
 ---
 
 ### Planned features
 
-- mouth lip sync
 - idle motions
-- hit boxes (head / chest)
 - voice(if possible)
-- Texture fixes (Requires redraw, a lot of parts changed after PSD export)
 
 ---
 
-### [Web Live2d Viewer](https://jupiterbjy.github.io/SimpleLive2dViewer/?https://cdn.jsdelivr.net/gh/jupiterbjy/Live2DPractice-Cyannyan/CyanSD/CyanSD.model3.json)
+### [Web Live2d Viewer](https://jupiterbjy.github.io/SimpleLive2dViewer/?https://cdn.jsdelivr.net/gh/jupiterbjy/Live2DPractice-Cyannyan/CyanSDLowRes/CyanSD.model3.json)
 
-![image](https://user-images.githubusercontent.com/26041217/144701425-4469a121-91e0-46e4-9d65-57cf411aa211.png)
+![image](https://github.com/jupiterbjy/Live2DPractice-Cyannyan/assets/26041217/af78f88d-6f3d-4620-b21d-230b1f37e83a)
+
+![image](https://github.com/jupiterbjy/Live2DPractice-Cyannyan/assets/26041217/3d9dc9cd-6d94-4ef1-ab45-7e978bb8b7b7)
