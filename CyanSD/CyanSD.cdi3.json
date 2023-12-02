@@ -444,6 +444,10 @@
 			"ParamAhogeY"
 		],
 		[
+			"ParamEyeROpen",
+			"ParamEyeRSmile"
+		],
+		[
 			"ParamEyeLOpen",
 			"ParamEyeLSmile"
 		],
@@ -460,8 +464,16 @@
 			"ParamBrowRY"
 		],
 		[
+			"ParamRibbonSwingX",
+			"ParamRibbonSwingY"
+		],
+		[
 			"ParamHairFrontX",
 			"ParamHairFrontY"
+		],
+		[
+			"ParamHairMoveX",
+			"ParamHairMoveY"
 		],
 		[
 			"ParamChestMorphY",
