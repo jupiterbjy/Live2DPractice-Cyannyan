@@ -16,7 +16,7 @@ As License permits, it's free to use both Commercially / Privately. I personally
 
 - CyanSD: 8192px version with VtuberStudio integration
 - CyanSDLowRes: 2048px version to use in webs, as chromium based mobile browers don't load large images.
-- CyanEmojis: Emojis created from this live2d model. Based on old model so these looks bit different, especially ones with closed eyes. Thanks IceCat for cropping!
+- Emoji: Emojis created from this live2d model. Based on old model so these looks bit different, especially ones with closed eyes. Thanks IceCat for cropping!
 
 ---
 
@@ -27,8 +27,17 @@ As License permits, it's free to use both Commercially / Privately. I personally
 
 ---
 
-### [Web Live2d Viewer](https://jupiterbjy.github.io/SimpleLive2dViewer/?https://cdn.jsdelivr.net/gh/jupiterbjy/Live2DPractice-Cyannyan/CyanSDLowRes/CyanSD.model3.json)
+## [Web Live2d Viewer](https://jupiterbjy.github.io/SimpleLive2dViewer/?https://cdn.jsdelivr.net/gh/jupiterbjy/Live2DPractice-Cyannyan/CyanSDLowRes/CyanSD.model3.json)
 
 ![image](https://github.com/jupiterbjy/Live2DPractice-Cyannyan/assets/26041217/af78f88d-6f3d-4620-b21d-230b1f37e83a)
 
-![image](https://github.com/jupiterbjy/Live2DPractice-Cyannyan/assets/26041217/3d9dc9cd-6d94-4ef1-ab45-7e978bb8b7b7)
+
+---
+
+## Emoji V2:
+![image](/Emoji/v2/1701538668_merged_16.png)
+
+---
+
+## Emoji V1:
+![](/Emoji/v1/1683296479_merged_16.png)
